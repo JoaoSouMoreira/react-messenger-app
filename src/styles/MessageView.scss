@@ -1,0 +1,18 @@
+.messages_container {
+  overflow-y: scroll;
+  flex: 1;
+}
+
+.bubble_container {
+  text-align: center;
+}
+
+.date_bubble {
+  display: inline-block;;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding: 0.75em 1em;
+  border-radius: 15px;
+  background-color: #444444;
+  color: #eeeeee;
+}

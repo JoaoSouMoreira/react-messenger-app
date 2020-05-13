@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  width: 800px;
+  flex-direction: column;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #fefefe;
+  border-radius: 5px;
+}
+
+.input {
+  width: 100%;
+}
