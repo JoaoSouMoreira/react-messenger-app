@@ -40,7 +40,7 @@
     "@material-ui/icons": "^4.9.1",
     "classnames": "^2.2.6",
     "lodash.groupby": "^4.6.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-hot-loader": "^4.3.5",
